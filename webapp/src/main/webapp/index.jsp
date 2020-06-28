@@ -10,4 +10,3 @@
 <h1> Ashish: Its my dream to work on Kubernetes Project </h1>
 <h1> Ashish: Thank You !!!! </h1>
 <h2> Ashish: Thank You !!!! </h2>
-<h3> Ashish: Thank You !!!! </h3>
